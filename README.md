@@ -1,6 +1,18 @@
 # Zakat
 Yearly Zakat Calculation &amp; Distribution in Database using Open Source software to make availbe free for every one
 
+
+Features "Yearly Zakat Calculation &amp; Distribution Database":
+----------------------------------------------------------------
+
+1) Maintain history of each Zakat Assessment Year
+2) Maintain history of Zakat distribution in which you can add records to ensure Zakat is Paid for the assessment year.
+3) Zakat Calculation for Bank Accounts
+4) Zakat Calculation for Gold, Silver & Stones
+5) Option of Zakat Calculation for Investment Properties
+6) Zakat Calculation for Shares, Prize Bonds .. etc
+
+
 OS Compatibilities:
 -------------------
 1) Windows
