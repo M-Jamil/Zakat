@@ -26,7 +26,7 @@ https://www.openoffice.org/download/
 OpenOffice or Libreoffice Micro Security:
 -----------------------------------------
 
-The programe equires Micros to execute to perfom Database tasks, so please change micro security from High to Medium after installing OpenOffice or LibreOffice.
+The "Yearly Zakat Calculation &amp; Distribution Database" application equires Micros to execute to perfom Database tasks, so please change micro security from "High" to "Medium" after installing OpenOffice or LibreOffice.
 
 You can change this setting form:
 
