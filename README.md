@@ -7,11 +7,11 @@ Features "Yearly Zakat Calculation &amp; Distribution Database Application":
 
 1) Maintain history of each Zakat Assessment Year
 2) Maintain history of Zakat distribution in which you can add records to ensure Zakat is Paid for the assessment year.
-3) Zakat Calculation for Bank Accounts
+3) Zakat Calculation for multiple Bank Accounts
 4) Zakat Calculation for Gold, Silver & Stones
-5) Option of Zakat Calculation for Investment Properties
+5) Option to Calculate Zakat for the Investment Properties
 6) Zakat Calculation for Shares, Prize Bonds .. etc
-7) Offline application, you dont have to share your akat informtaion to any website, the application will store data locally.
+7) Offline application, you dont have to share your Zakat informtaion to any website, the application will store data locally.
 
 
 OS Compatibilities:
@@ -31,7 +31,7 @@ Prerequisites:
 
 https://www.java.com/en/download/
 
-2) You also need OpenOffice or Libreoffice, i recommend OpenOffice which can be downloaded from the following link:
+2) You also need OpenOffice or Libreoffice, i recommend OpenOffice which can be downloaded from the following website:
 
 https://www.openoffice.org/download/
 
@@ -39,7 +39,7 @@ https://www.openoffice.org/download/
 OpenOffice or Libreoffice Micro Security:
 -----------------------------------------
 
-The "Yearly Zakat Calculation &amp; Distribution Database Application" equires Micros to execute to perfom Database tasks, so please change micro security from "High" to "Medium" after installing OpenOffice or LibreOffice.
+The "Yearly Zakat Calculation &amp; Distribution Database Application" requires Micros to execute and perfom some Database tasks, so please change micro security from "High" to "Medium" after installing OpenOffice or LibreOffice.
 
 You can change this setting form:
 
@@ -49,7 +49,7 @@ You can change this setting form:
 
 
 
-Once above tasks perfomred, simply open ODB file to start using "Yearly Zakat Calculation &amp; Distribution Database Aplication".
+Once above install complete, simply open ODB file and start using "Yearly Zakat Calculation &amp; Distribution Database Aplication".
 
 
 Thanks for using it.
