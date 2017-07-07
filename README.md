@@ -30,8 +30,9 @@ The "Yearly Zakat Calculation &amp; Distribution Database" application equires M
 
 You can change this setting form:
 
-(For Window OS) Tools > Option > Security > Micro Security > select Medium > OK
-(For MAC OS) OpenOffice > Prefrences > Security > Micro Security > select Medium > OK
+- (For Window OS) Tools > Option > Security > Micro Security > select Medium > OK.
+
+- (For MAC OS) OpenOffice > Prefrences > Security > Micro Security > select Medium > OK.
 
 
 
