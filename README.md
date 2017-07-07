@@ -1,9 +1,9 @@
 # Zakat
-Yearly Zakat Calculation &amp; Distribution in Database using Open Source software to make availbe free for every one
+Yearly Zakat Calculation &amp; Distribution Database Application using Open Source software to make availbe free for every one
 
 
-Features "Yearly Zakat Calculation &amp; Distribution Database":
-----------------------------------------------------------------
+Features "Yearly Zakat Calculation &amp; Distribution Database Application":
+----------------------------------------------------------------------------
 
 1) Maintain history of each Zakat Assessment Year
 2) Maintain history of Zakat distribution in which you can add records to ensure Zakat is Paid for the assessment year.
@@ -11,16 +11,17 @@ Features "Yearly Zakat Calculation &amp; Distribution Database":
 4) Zakat Calculation for Gold, Silver & Stones
 5) Option of Zakat Calculation for Investment Properties
 6) Zakat Calculation for Shares, Prize Bonds .. etc
+7) Offline application, you dont have to share your akat informtaion to any website, the application will store data locally.
 
 
 OS Compatibilities:
 -------------------
 1) Windows
-2) Linux with x-windows
+2) Linux with X-Windows support
 3) MAC OS v10.x
 4) iPAD (not tested, may work)
 5) iPhone (not tested, may work)
-6) Android (not tested, may work) - use AndrOpen Office software from Playstore to open ODB.
+6) Android (not tested, may work) - use AndrOpen Office software from Google Playstore to open ODB.
 
 
 Prerequisites:
@@ -38,7 +39,7 @@ https://www.openoffice.org/download/
 OpenOffice or Libreoffice Micro Security:
 -----------------------------------------
 
-The "Yearly Zakat Calculation &amp; Distribution Database" application equires Micros to execute to perfom Database tasks, so please change micro security from "High" to "Medium" after installing OpenOffice or LibreOffice.
+The "Yearly Zakat Calculation &amp; Distribution Database Application" equires Micros to execute to perfom Database tasks, so please change micro security from "High" to "Medium" after installing OpenOffice or LibreOffice.
 
 You can change this setting form:
 
@@ -48,7 +49,8 @@ You can change this setting form:
 
 
 
-Once perfomed above tasks simply open ODB file to start using "Yearly Zakat Calculation &amp; Distribution Database".
+Once above tasks perfomred, simply open ODB file to start using "Yearly Zakat Calculation &amp; Distribution Database Aplication".
 
 
 Thanks for using it.
+M. Jamil
