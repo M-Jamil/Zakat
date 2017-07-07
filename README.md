@@ -1,9 +1,13 @@
 # Zakat
-Yearly Zakat Calculation &amp; Distribution Database Application using Open Source software to make availbe free for every one
+
+Yearly offline Zakat Calculation &amp; Distribution Database Application:
+-------------------------------------------------------------------------
+
+Yearly offline Zakat Calculation &amp; Distribution Database Application using Open Source software for Zakat calculation, this application is free for every one.
 
 
-Features "Yearly Zakat Calculation &amp; Distribution Database Application":
-----------------------------------------------------------------------------
+Features :
+----------
 
 1) Maintain history of each Zakat Assessment Year
 2) Maintain history of Zakat distribution in which you can add records to ensure Zakat is Paid for the assessment year.
