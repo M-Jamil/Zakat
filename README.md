@@ -36,20 +36,21 @@ https://www.java.com/en/download/
 https://www.openoffice.org/download/
 
 
-OpenOffice or Libreoffice Micro Security:
+OpenOffice or Libreoffice Macro Security:
 -----------------------------------------
 
-The "Yearly Zakat Calculation &amp; Distribution Database Application" requires Micros to execute and perfom some Database tasks, so please change micro security from "High" to "Medium" after installing OpenOffice or LibreOffice.
+The "Yearly Zakat Calculation &amp; Distribution Database Application" requires Macros to execute and perfom some Database tasks, so please change macro security from "High" to "Medium" after installing OpenOffice or LibreOffice.
 
 You can change this setting form:
 
-- (For Window OS) Tools > Option > Security > Micro Security > select Medium > OK.
+- (For Window OS) Tools > Option > Security > Macro Security > select Medium > OK.
 
-- (For MAC OS) OpenOffice > Prefrences > Security > Micro Security > select Medium > OK.
+- (For MAC OS) OpenOffice > Prefrences > Security > Macro Security > select Medium > OK.
 
 
 
-Once above install complete, simply open ODB file and start using "Yearly Zakat Calculation &amp; Distribution Database Aplication".
+Once above install complete, simply open ODB file and start using "Yearly Zakat Calculation &amp; Distribution Database Aplication". When "Security Warning" propmpt make sure to click on "Enable Macros"
+
 
 
 Thanks for using it.
