@@ -18,8 +18,8 @@ Features :
 7) Offline application, you dont have to share your Zakat informtaion to any website, the application will store data locally.
 
 
-OS Compatibilities:
--------------------
+Supported OS :
+--------------
 1) Windows
 2) Linux with X-Windows support
 3) MAC OS v10.x
@@ -58,4 +58,5 @@ Once above install complete, simply open ODB file and start using "Yearly Zakat 
 
 
 Thanks for using it.
+
 M. Jamil
