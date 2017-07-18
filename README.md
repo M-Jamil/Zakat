@@ -23,9 +23,6 @@ Supported OS :
 1) Windows
 2) Linux with X-Windows support
 3) MAC OS v10.x
-4) iPAD (not tested, may work)
-5) iPhone (not tested, may work)
-6) Android (not tested, may work) - use AndrOpen Office software from Google Playstore to open ODB.
 
 
 Prerequisites:
