@@ -12,7 +12,7 @@ Features :
 1) Maintain history of each Zakat Assessment Year
 2) Maintain history of Zakat distribution in which you can add records to ensure Zakat is Paid for the assessment year.
 3) Zakat Calculation for multiple Bank Accounts
-4) Zakat Calculation for Gold, Silver & Stones
+4) Zakat Calculation for Gold & Silver
 5) Option to Calculate Zakat for the Investment Properties
 6) Zakat Calculation for Shares, Prize Bonds .. etc
 7) Offline application, you dont have to share your Zakat informtaion to any website, the application will store data locally.
